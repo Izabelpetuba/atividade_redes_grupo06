@@ -30,4 +30,10 @@ PARTE 2: LOGIN NA VM
   - Por sua vez use o comando abaixo para organizar as interfaces que poderíamos vir a utlizar e por sua vez definindo seu local de instalação:
   
       cat /etc/netplan/01-netcfg.yaml
+      
+  
+PARTE 3: CONFIGURAÇÃO DOS ENDERSÇOS DE IP NA INTERFACE DA REDE
+--------------------------------------------------------------
+
+  - Efetue os seguintes comandos:
   
